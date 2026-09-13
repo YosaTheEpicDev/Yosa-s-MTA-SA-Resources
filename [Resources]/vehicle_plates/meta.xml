@@ -1,4 +1,4 @@
 <meta>
-<info author="NaijaLane Freeroam Devteam" name="Vehicle_plates" version="1.0" description="A simple script that makes changes the Vehicle's plate to the Nick of the player who steps into it" type="script" />
+<info author="Datyeyeboi" name="Vehicle_plates" version="2.0" description="A simple script that changes a vehicle’s license plate to the nickname of the player who enters it" type="script" />
 <script src="plate.lua" type="server"  cache="false"/> 
 </meta>
