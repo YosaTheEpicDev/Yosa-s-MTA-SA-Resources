@@ -1,0 +1,4 @@
+<meta>
+<info author="Datyeyeboi" name="Vehicle_plates" version="2.0" description="A simple script that changes a vehicle’s license plate to the nickname of the player who enters it" type="script" />
+<script src="plate.lua" type="server"  cache="false"/> 
+</meta>
