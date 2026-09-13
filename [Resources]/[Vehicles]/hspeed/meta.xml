@@ -1,4 +1,0 @@
-<meta>
-    <info author="datyeyeboi" name="Hydra Speed Modifiers" version="2.0" description="Hydra speed modifiers using keys 1, 2, and 3" type="script" />
-    <script src="client.lua" type="client" cache="false"/>
-</meta>

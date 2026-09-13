@@ -1,0 +1,5 @@
+<meta>
+    <info author="datyeyeboi" name="drift" version="1.0" description="" type="script" />
+    <script src="drift_s.lua" type="server" cache="false" />
+    <script src="drft.lua" type="client" cache="false" />
+</meta>

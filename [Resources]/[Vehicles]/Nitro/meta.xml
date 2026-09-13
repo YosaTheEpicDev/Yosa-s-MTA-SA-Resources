@@ -1,0 +1,4 @@
+<meta>
+    <info author="datyeyeboi" name="Nitro" version="1.0" description="" type="script" />
+    <script src="Nitro.lua" type="server" cache="false" />
+</meta>
