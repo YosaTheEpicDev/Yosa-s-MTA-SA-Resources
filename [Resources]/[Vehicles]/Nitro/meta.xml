@@ -1,4 +1,4 @@
 <meta>
-    <info author="datyeyeboi" name="Nitro" version="1.0" description="" type="script" />
+    <info author="datyeyeboi" name="Nitro" version="1.0" description="Nitro boost system. Controls: N = toggle nitro on/off, Mouse1/LCtrl/LAlt = activate boost (requires N to be on). Disabled for attack vehicles, boats, helicopters, and trains." type="script" />
     <script src="Nitro.lua" type="server" cache="false" />
 </meta>

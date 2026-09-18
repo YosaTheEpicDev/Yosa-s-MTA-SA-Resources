@@ -1,0 +1,4 @@
+<meta>
+	<info author="Datyeyeboi" name="Hydra speed" version="1.5" description="Lift the cap on topspeed for aircraft, especially Hydra. Press 1 to cycle through throttle modes (Default Throttle 1.5, Full Throttle 13.41, Turbo Throttle 30). Press 3 to toggle airbrake on/off. Use /airvel command to toggle throttle modes." />
+	<script src="client.lua" type="client" />
+</meta>
